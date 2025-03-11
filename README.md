@@ -21,10 +21,6 @@
 - [Mukti_1.99_PR](https://www.omicronlab.com/download/fonts/Mukti_1.99_PR.ttf)
 - [Lohit_14-04-2007](https://www.omicronlab.com/download/fonts/Lohit_14-04-2007.ttf)
 
-## Google Fonts
-
-- [Anek Bangla, Baloo Da 2, Hind Siliguri, Noto Sans Bengali, Noto Serif Bengali, and Tiro Bangla](https://fonts.google.com/share?selection.family=Anek+Bangla:wght@100..800|Baloo+Da+2:wght@400..800|Hind+Siliguri:wght@300;400;500;600;700|Noto+Sans+Bengali:wght@100..900|Noto+Serif+Bengali:wght@100..900|Tiro+Bangla:ital@0;1)
-
 ## Okkhor 52
 
 - [Ekushey Mukto](https://okkhor52.com/download.html?id=_007)
@@ -35,5 +31,9 @@
 - [Ekushey Amar Bangla](https://okkhor52.com/download.html?id=_019)
 - [Charukola](https://okkhor52.com/download.html?id=_064)
 - [Ruposhi Bangla](https://okkhor52.com/download.html?id=_074)
+
+## Google Fonts
+
+- [Anek Bangla, Baloo Da 2, Hind Siliguri, Noto Sans Bengali, Noto Serif Bengali, and Tiro Bangla](https://fonts.google.com/share?selection.family=Anek+Bangla:wght@100..800|Baloo+Da+2:wght@400..800|Hind+Siliguri:wght@300;400;500;600;700|Noto+Sans+Bengali:wght@100..900|Noto+Serif+Bengali:wght@100..900|Tiro+Bangla:ital@0;1)
 
 `thanks to those who made these free for everyone`
