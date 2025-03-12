@@ -23,14 +23,14 @@
 
 ## Okkhor 52
 
-- [Ekushey Mukto](https://okkhor52.com/download.html?id=_007)
-- [Ekushey Sornaly](https://okkhor52.com/download.html?id=_008)
+- [Ekushey Mukto](https://okkhor52.com/download/Ekushey_Mukto.zip)
+- [Ekushey Sornaly](https://okkhor52.com/download/Ekushey_Sornaly%20.zip)
 - [Ekushey Lalsalu](https://okkhor52.com/download.html?id=_009)
-- [Ekushey Lal Sabuj Normal](https://okkhor52.com/download.html?id=_010)
-- [Ekushey Bangla Kolom](https://okkhor52.com/download.html?id=_017)
-- [Ekushey Amar Bangla](https://okkhor52.com/download.html?id=_019)
-- [Charukola](https://okkhor52.com/download.html?id=_064)
-- [Ruposhi Bangla](https://okkhor52.com/download.html?id=_074)
+- [Ekushey Lal Sabuj Normal](https://okkhor52.com/download/Ekushey_Lal_Salu.zip)
+- [Ekushey Bangla Kolom](https://okkhor52.com/download/Ekushey_Bangla_Kolom.zip)
+- [Ekushey Amar Bangla](https://okkhor52.com/download/Ekushey_Amar_Bangla.zip)
+- [Charukola](https://okkhor52.com/download/Charukola.zip)
+- [Ruposhi Bangla](https://okkhor52.com/download/RuposhiBangla.zip)
 
 ## Google Fonts
 
