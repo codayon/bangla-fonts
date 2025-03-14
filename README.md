@@ -1,4 +1,4 @@
-## OmicronLab
+## [OmicronLab](https://www.omicronlab.com/)
 
 - [Kalpurush](https://www.omicronlab.com/download/fonts/kalpurush.ttf)
 - [Kalpurush ANSI](https://www.omicronlab.com/download/fonts/kalpurush%20ANSI.ttf)
@@ -21,7 +21,7 @@
 - [Mukti_1.99_PR](https://www.omicronlab.com/download/fonts/Mukti_1.99_PR.ttf)
 - [Lohit_14-04-2007](https://www.omicronlab.com/download/fonts/Lohit_14-04-2007.ttf)
 
-## Okkhor 52
+## [Okkhor 52](https://okkhor52.com/)
 
 - [Ekushey Mukto](https://okkhor52.com/download/Ekushey_Mukto.zip)
 - [Ekushey Sornaly](https://okkhor52.com/download/Ekushey_Sornaly%20.zip)
@@ -32,7 +32,7 @@
 - [Charukola](https://okkhor52.com/download/Charukola.zip)
 - [Ruposhi Bangla](https://okkhor52.com/download/RuposhiBangla.zip)
 
-## Google Fonts
+## [Google Fonts](https://fonts.google.com/)
 
 - [Anek Bangla, Baloo Da 2, Hind Siliguri, Noto Sans Bengali, Noto Serif Bengali, and Tiro Bangla](https://fonts.google.com/share?selection.family=Anek+Bangla:wght@100..800|Baloo+Da+2:wght@400..800|Hind+Siliguri:wght@300;400;500;600;700|Noto+Sans+Bengali:wght@100..900|Noto+Serif+Bengali:wght@100..900|Tiro+Bangla:ital@0;1)
 
