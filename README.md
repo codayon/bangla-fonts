@@ -1,9 +1,9 @@
-## Install Script
-Description: If you are lazy, trust me bro and use the `download.sh` script instead. To use it, you must install `git` then use this command.
+## About Install Script
+I made this script named `install.sh` with help of AI to be able to download and install the fonts listed below. To be able to execute the command below, you need to have [Git](https://git-scm.com/downloads/linux) installed on your system.
 ```
-git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmod +x download.sh && ./download.sh
+git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmod +x install.sh && ./download.sh
 ```
-`Note: It will not download everything listed below except those Google Fonts.`
+`Note: This script will download everything listed below except for the Google Fonts.`
 
 ## [OmicronLab](https://www.omicronlab.com/)
 
