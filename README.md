@@ -1,3 +1,10 @@
+## Install Script
+Description: If you are lazy, trust me bro and use the `download.sh` script instead. To use it, you must install `git` then use this command.
+```
+git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmod +x download.sh && ./download.sh
+```
+`Note: It will not download everything listed below except those Google Fonts.`
+
 ## [OmicronLab](https://www.omicronlab.com/)
 
 - [Kalpurush](https://www.omicronlab.com/download/fonts/kalpurush.ttf)
