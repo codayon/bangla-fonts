@@ -1,13 +1,13 @@
 ## Description
 
-These scripts are created with the help of AI to download and install necessary Bangla fonts on Linux and Unix-like systems. To execute the commands below, [Git](https://git-scm.com/downloads/linux) must be installed on your system.
+These scripts are created with the help of AI to download and install necessary Bangla fonts on Linux and Unix-like systems. To execute the commands below, `wget` must be installed on your system.
 
 ### About Install Script
 
 This script will download everything listed below except for the Google Fonts.
 
 ```
-git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/codayon/bangla-fonts/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### Minified Installation
@@ -15,7 +15,7 @@ git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmo
 If you don’t need all the fonts (which most of you won’t), use the script below. It downloads and installs only `Mukti`, `MuktiNarrow`, `Noto Sans Bangla`, and `Noto Serif Bangla`.
 
 ```
-git clone https://github.com/codayon/bangla-fonts.git && cd bangla-fonts && chmod +x minified.sh && ./minified.sh
+wget https://raw.githubusercontent.com/codayon/bangla-fonts/refs/heads/main/minified.sh && chmod +x minified.sh && ./minified.sh
 ```
 
 `Note: In browsers, you must manually set sans-serif font to Noto Sans or Noto Serif Bangla.`
