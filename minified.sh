@@ -2,36 +2,6 @@
 
 FONT_DIR="$HOME/.local/share/fonts"
 
-# Function to install missing packages
-install_package() {
-    local package=$1
-
-    if command -v apt &>/dev/null; then
-        sudo apt update && sudo apt install -y "$package"
-    elif command -v yum &>/dev/null; then
-        sudo yum install -y "$package"
-    elif command -v dnf &>/dev/null; then
-        sudo dnf install -y "$package"
-    elif command -v pacman &>/dev/null; then
-        sudo pacman -Sy --noconfirm "$package"
-    elif command -v zypper &>/dev/null; then
-        sudo zypper install -y "$package"
-    else
-        echo "Unsupported package manager. Please install $package manually."
-        exit 1
-    fi
-}
-
-# Ensure required tools are installed
-if ! command -v wget &>/dev/null; then
-    echo "wget is not installed. Installing..."
-    install_package wget
-    if ! command -v wget &>/dev/null; then
-        echo "Failed to install wget."
-        exit 1
-    fi
-fi
-
 mkdir -p "$FONT_DIR"
 
 urls=(

@@ -2,7 +2,7 @@
 
 FONT_DIR="$HOME/.local/share/fonts"
 
-# Function to install missing packages
+# Function to install missing package i.e. unzip
 install_package() {
     local package=$1
 
@@ -22,12 +22,7 @@ install_package() {
     fi
 }
 
-# Ensure required tools are installed
-if ! command -v wget &>/dev/null; then
-    echo "wget is not installed. Installing..."
-    install_package wget
-fi
-
+# Install unzip
 if ! command -v unzip &>/dev/null; then
     echo "unzip is not installed. Installing..."
     install_package unzip
